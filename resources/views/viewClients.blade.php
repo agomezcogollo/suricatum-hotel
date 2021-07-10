@@ -1,4 +1,3 @@
-{{ header('Authorization : eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC92MVwvYXV0aFwvbG9naW4iLCJpYXQiOjE2MjUxMjU3NjEsImV4cCI6MTYyNTEyOTM2MSwibmJmIjoxNjI1MTI1NzYxLCJqdGkiOiJ1Y2dPR0R6dnY3WUVyWWlhIiwic3ViIjoxLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.Gt0H30FS6njJybdpo2L1FpmSPZtLgekqxaQXfIDH6ms'); }}
 <table class="table">
   <thead>
     <tr>
